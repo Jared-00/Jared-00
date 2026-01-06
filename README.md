@@ -169,7 +169,8 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
-
+<br></br>
+<br></br>
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
