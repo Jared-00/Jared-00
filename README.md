@@ -32,7 +32,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science`, `Software Engineering`, `Cybersecurity`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](). in maintenance
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](). [in maintenance]
 - :boom: You can visit [MY WEBSITE](). [in maintenance]
 <br>
 
