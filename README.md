@@ -116,7 +116,7 @@
   &emsp;
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-black?style=plastic&logo=laravel"></a>
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Docker-white?style=plastic&logo=docker" /></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
     &emsp;
